@@ -2,11 +2,11 @@
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: Hemanjali
+**NAME**: HEMANJALI
 
 **INTERN ID**: CT08MYL
 
-**DOMAIN**: Frontend Web Development
+**DOMAIN**: FRONTEND WEB DEVELOPMENT
 
 **BATCH DURATION**: January 15th, 2025 to February 15th, 2025.
 
